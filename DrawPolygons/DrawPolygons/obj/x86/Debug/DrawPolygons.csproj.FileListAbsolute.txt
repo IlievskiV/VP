@@ -1,0 +1,15 @@
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\bin\Debug\DrawPolygons.exe
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\bin\Debug\DrawPolygons.pdb
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\obj\x86\Debug\DrawPolygons.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\obj\x86\Debug\DrawPolygons.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\obj\x86\Debug\DrawPolygons.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\obj\x86\Debug\DrawPolygons.exe
+C:\Users\User\AppData\Local\Temporary Projects\DrawPolygons\obj\x86\Debug\DrawPolygons.pdb
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.exe
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.pdb
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\bin\Debug\DrawPolygons.exe
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\bin\Debug\DrawPolygons.pdb
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2010\Projects\DrawPolygons\DrawPolygons\obj\x86\Debug\DrawPolygons.csprojResolveAssemblyReference.cache
