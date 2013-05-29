@@ -1,0 +1,14 @@
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\bin\Debug\EatingPies.exe
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\bin\Debug\EatingPies.pdb
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\obj\x86\Debug\EatingPies.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\obj\x86\Debug\EatingPies.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\obj\x86\Debug\EatingPies.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\obj\x86\Debug\EatingPies.exe
+C:\Users\User\AppData\Local\Temporary Projects\EatingPies\obj\x86\Debug\EatingPies.pdb
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\obj\x86\Debug\EatingPies.exe
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\obj\x86\Debug\EatingPies.pdb
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\bin\Debug\EatingPies.exe
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\bin\Debug\EatingPies.pdb
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\obj\x86\Debug\EatingPies.Form1.resources
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\obj\x86\Debug\EatingPies.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\EatingPies\EatingPies\obj\x86\Debug\EatingPies.csproj.GenerateResource.Cache
